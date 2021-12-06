@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dhruv singh</title>
+  </head>
+  <body bgcolor="#00ffff">
+    <div>
+      <h1>This is task 1.</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis laborum
+        in repellendus. Veniam quo error deleniti vel cupiditate iusto, illo est
+        voluptates? Similique, molestiae atque commodi soluta odit repellat
+        aperiam quas deserunt veniam consectetur porro quis, possimus sequi enim
+        debitis, qui facere eos suscipit voluptatum. Ipsam odio optio, possimus
+        eaque consequuntur itaque quia facere a molestias est perspiciatis
+        necessitatibus velit dolores amet recusandae id reiciendis sed
+        perferendis, quidem tempore repellat quisquam. Cumque accusamus esse hic
+        dolor totam incidunt odio quis, quaerat sapiente praesentium temporibus
+        inventore. Quisquam voluptates soluta voluptatem eos necessitatibus
+        excepturi fugiat itaque minima voluptatibus deleniti autem, vel quae!
+      </p>
+      <img
+        src="https://wallpaperhook.com/wp-content/uploads/2020/11/leopard-3840x2615-dark-4k-From-WallpaperHook.com-For-Free.jpg"
+        alt="image of a leopard"
+        width="400"
+      />
+    </div>
+    <h2>Below is the example of list.</h2>
+    <h3>SIGs in ACM</h3>
+    <div>
+      <ol type="i">
+        <li>SIG Tech</li>
+        <li>SIG Web</li>
+        <li>SIG Graph</li>
+        <li>SIG Cloud</li>
+        <li>SIG Foundation</li>
+        <li>SIG Python</li>
+        <li>SIG soft</li>
+      </ol>
+    </div>
+    <p><b>This is an example of bold tag.</b></p>
+    <p><u>This is an example of underline tag.</u></p>
+    <span><p>This is an example of span tag.</p></span>
+    <br />
+    <p>
+      Some examples of html entities are :-
+      <br />&nbsp;<br />&lt;<br />&gt;<br />&amp;<br />&cent;<br />&copy;
+    </p>
+  </body>
+</html>
